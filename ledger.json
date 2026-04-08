@@ -1,7 +1,223 @@
 {
   "version": 1,
-  "last_run_iso": "2026-04-08T03:53:30.456216+00:00",
+  "last_run_iso": "2026-04-08T05:50:12.960607+00:00",
   "previous_recent": [
+    {
+      "id": "1485049321",
+      "name": "Devastator",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 164733,
+      "isrc": "USVT10400158"
+    },
+    {
+      "id": "1485049320",
+      "name": "Celebrator",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 136373,
+      "isrc": "USVT10400157"
+    },
+    {
+      "id": "1485049319",
+      "name": "Wolf Party",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 208093,
+      "isrc": "USVT10400156"
+    },
+    {
+      "id": "1485049318",
+      "name": "Beautiful Horses",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 107107,
+      "isrc": "USVT10400155"
+    },
+    {
+      "id": "1485049317",
+      "name": "Live at the Apocalypse Cabaret",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 191907,
+      "isrc": "USVT10400154"
+    },
+    {
+      "id": "1485049316",
+      "name": "My First Kiss at the Public Execution",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 169227,
+      "isrc": "USVT10400153"
+    },
+    {
+      "id": "1485049315",
+      "name": "Crimes",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 240120,
+      "isrc": "USVT10400152"
+    },
+    {
+      "id": "1485049314",
+      "name": "Rats and Rats and Rats for Candy",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 231827,
+      "isrc": "USVT10400151"
+    },
+    {
+      "id": "1485049313",
+      "name": "Teen Heat",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 127893,
+      "isrc": "USVT10400150"
+    },
+    {
+      "id": "1485049312",
+      "name": "Peacock Skeleton with Crooked Feathers",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 271173,
+      "isrc": "USVT10400149"
+    },
+    {
+      "id": "1485049311",
+      "name": "Love Rhymes with Hideous Car Wreck",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 194587,
+      "isrc": "USVT10400148"
+    },
+    {
+      "id": "1485049310",
+      "name": "Trash Flavored Trash",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 157747,
+      "isrc": "USVT10400141"
+    },
+    {
+      "id": "1485049309",
+      "name": "Feed Me to the Forest",
+      "artist": "The Blood Brothers",
+      "album": "Crimes (Bonus Track Version)",
+      "duration_ms": 143587,
+      "isrc": "USVT10400147"
+    },
+    {
+      "id": "1589272590",
+      "name": "Obstacle 1",
+      "artist": "Interpol",
+      "album": "Turn On the Bright Lights",
+      "duration_ms": 251293,
+      "isrc": "USMTD0254502"
+    },
+    {
+      "id": "1613703814",
+      "name": "Lost In Time",
+      "artist": "Bloodthirsty Butchers",
+      "album": "BLOODTHIRSTY BUTCHERS & fOUL Split Album (2022 Remaster)",
+      "duration_ms": 287107,
+      "isrc": "JPB532200013"
+    },
+    {
+      "id": "1807687373",
+      "name": "AWAKE",
+      "artist": "Downt",
+      "album": "AWAKE - Single",
+      "duration_ms": 233000,
+      "isrc": "JPV502500106"
+    },
+    {
+      "id": "1709951497",
+      "name": "111511",
+      "artist": "Downt",
+      "album": "Downt",
+      "duration_ms": 263129,
+      "isrc": "TCJPP2190170"
+    },
+    {
+      "id": "1729706775",
+      "name": "Yda027",
+      "artist": "Downt",
+      "album": "Underlight & Aftertime",
+      "duration_ms": 169976,
+      "isrc": "JPV502400039"
+    },
+    {
+      "id": "1729706776",
+      "name": "煉獄ex",
+      "artist": "Downt",
+      "album": "Underlight & Aftertime",
+      "duration_ms": 173850,
+      "isrc": "JPV502400040"
+    },
+    {
+      "id": "1016273849",
+      "name": "In Spite of My Angel",
+      "artist": "A Perfect Kiss",
+      "album": "In Spite of Angels",
+      "duration_ms": 393169,
+      "isrc": "QM4DW1545959"
+    },
+    {
+      "id": "1016273842",
+      "name": "Song",
+      "artist": "A Perfect Kiss",
+      "album": "In Spite of Angels",
+      "duration_ms": 401711,
+      "isrc": "QM4DW1545952"
+    },
+    {
+      "id": "1016273841",
+      "name": "Seven and a Half Years of Waiting, My Disaster",
+      "artist": "A Perfect Kiss",
+      "album": "In Spite of Angels",
+      "duration_ms": 426422,
+      "isrc": "QM4DW1545951"
+    },
+    {
+      "id": "1575739740",
+      "name": "Aoi, Koi, Daidaiiro No Hi",
+      "artist": "MASS OF THE FERMENTING DREGS",
+      "album": "World Is Yours - EP",
+      "duration_ms": 282173,
+      "isrc": "TCJPP2116877"
+    },
+    {
+      "id": "49250286",
+      "name": "End the Washington Monument (Blinks) Goodnight",
+      "artist": "Q and not U",
+      "album": "No Kill No Beep Beep",
+      "duration_ms": 141840,
+      "isrc": "US35U0412302"
+    },
+    {
+      "id": "1590201388",
+      "name": "Porcelain Slightly",
+      "artist": "Lil Ugly Mane",
+      "album": "Volcanic Bird Enemy and the Voiced Concern",
+      "duration_ms": 231320,
+      "isrc": "QZMEQ2179391"
+    },
+    {
+      "id": "1194903962",
+      "name": "Sunday Morning",
+      "artist": "All Dogs",
+      "album": "Kicking Every Day",
+      "duration_ms": 229349,
+      "isrc": "USA2B1700514"
+    },
+    {
+      "id": "1194903959",
+      "name": "How Long",
+      "artist": "All Dogs",
+      "album": "Kicking Every Day",
+      "duration_ms": 202539,
+      "isrc": "USA2B1700513"
+    },
     {
       "id": "1194903957",
       "name": "Black Hole",
@@ -17,14 +233,6 @@
       "album": "Portraits of Past",
       "duration_ms": 100573,
       "isrc": "USCGJ2520093"
-    },
-    {
-      "id": "1194903959",
-      "name": "How Long",
-      "artist": "All Dogs",
-      "album": "Kicking Every Day",
-      "duration_ms": 202539,
-      "isrc": "USA2B1700513"
     },
     {
       "id": "1834572055",
@@ -105,14 +313,6 @@
       "album": "Kicking Every Day",
       "duration_ms": 154349,
       "isrc": "USA2B1700515"
-    },
-    {
-      "id": "1194903962",
-      "name": "Sunday Morning",
-      "artist": "All Dogs",
-      "album": "Kicking Every Day",
-      "duration_ms": 229349,
-      "isrc": "USA2B1700514"
     },
     {
       "id": "487566824",
@@ -201,210 +401,10 @@
       "album": "Just Got Back from the Discomfort We're Alright",
       "duration_ms": 220681,
       "isrc": "QZMER2096302"
-    },
-    {
-      "id": "1587589825",
-      "name": "Please Don't Cry, They Stopped Hours Ago",
-      "artist": "Brave Little Abacus",
-      "album": "Just Got Back from the Discomfort We're Alright",
-      "duration_ms": 282762,
-      "isrc": "QZMER2096297"
-    },
-    {
-      "id": "1587589828",
-      "name": "The Blah Blah Blahs",
-      "artist": "Brave Little Abacus",
-      "album": "Just Got Back from the Discomfort We're Alright",
-      "duration_ms": 252678,
-      "isrc": "QZMER2096300"
-    },
-    {
-      "id": "1587589823",
-      "name": "Pile! No Pile! Pile!",
-      "artist": "Brave Little Abacus",
-      "album": "Just Got Back from the Discomfort We're Alright",
-      "duration_ms": 380939,
-      "isrc": "QZMER2096296"
-    },
-    {
-      "id": "1783713555",
-      "name": "Besties",
-      "artist": "Black Country, New Road",
-      "album": "Forever Howlong",
-      "duration_ms": 216757,
-      "isrc": "GBCFB2401384"
-    },
-    {
-      "id": "1586070269",
-      "name": "Basketball Shoes",
-      "artist": "Black Country, New Road",
-      "album": "Ants From Up There",
-      "duration_ms": 757440,
-      "isrc": "GBCFB2100674"
-    },
-    {
-      "id": "597937194",
-      "name": "Clark Gable",
-      "artist": "The Postal Service",
-      "album": "Give Up (Deluxe 10th Anniversary Edition)",
-      "duration_ms": 294400,
-      "isrc": "USSUB1304506"
-    },
-    {
-      "id": "1657444303",
-      "name": "Blue Star",
-      "artist": "Sammy Volkov",
-      "album": "Be Alright!",
-      "duration_ms": 237853,
-      "isrc": "CAQEE2000002"
-    },
-    {
-      "id": "1879606883",
-      "name": "A Matter of Time",
-      "artist": "Sammy Volkov",
-      "album": "Songs From the Goodbye Garden",
-      "duration_ms": 243259,
-      "isrc": "CAQEE2500001"
-    },
-    {
-      "id": "1450124706",
-      "name": "Medicine Bottle",
-      "artist": "Red House Painters",
-      "album": "Down Colorful Hill",
-      "duration_ms": 589440,
-      "isrc": "GBAFL9200039"
-    },
-    {
-      "id": "49250298",
-      "name": "The More I Get, the More I Want",
-      "artist": "Q and not U",
-      "album": "No Kill No Beep Beep",
-      "duration_ms": 247120,
-      "isrc": "US35U0412308"
-    },
-    {
-      "id": "49250296",
-      "name": "Little Sparkee",
-      "artist": "Q and not U",
-      "album": "No Kill No Beep Beep",
-      "duration_ms": 126253,
-      "isrc": "US35U0412307"
-    },
-    {
-      "id": "49250294",
-      "name": "We Heart Our Hive",
-      "artist": "Q and not U",
-      "album": "No Kill No Beep Beep",
-      "duration_ms": 276360,
-      "isrc": "US35U0412306"
-    },
-    {
-      "id": "49250292",
-      "name": "Kiss Distinctly American",
-      "artist": "Q and not U",
-      "album": "No Kill No Beep Beep",
-      "duration_ms": 305373,
-      "isrc": "US35U0412305"
-    },
-    {
-      "id": "49250290",
-      "name": "Hooray for Humans",
-      "artist": "Q and not U",
-      "album": "No Kill No Beep Beep",
-      "duration_ms": 191973,
-      "isrc": "US35U0412304"
-    },
-    {
-      "id": "49250288",
-      "name": "Fever Sleeves",
-      "artist": "Q and not U",
-      "album": "No Kill No Beep Beep",
-      "duration_ms": 164053,
-      "isrc": "US35U0412303"
-    },
-    {
-      "id": "49250286",
-      "name": "End the Washington Monument (Blinks) Goodnight",
-      "artist": "Q and not U",
-      "album": "No Kill No Beep Beep",
-      "duration_ms": 141840,
-      "isrc": "US35U0412302"
-    },
-    {
-      "id": "597937195",
-      "name": "We Will Become Silhouettes",
-      "artist": "The Postal Service",
-      "album": "Give Up (Deluxe 10th Anniversary Edition)",
-      "duration_ms": 300547,
-      "isrc": "USSUB1304507"
-    },
-    {
-      "id": "597937193",
-      "name": "Recycled Air",
-      "artist": "The Postal Service",
-      "album": "Give Up (Deluxe 10th Anniversary Edition)",
-      "duration_ms": 269507,
-      "isrc": "USSUB1304505"
-    },
-    {
-      "id": "597937192",
-      "name": "Nothing Better",
-      "artist": "The Postal Service",
-      "album": "Give Up (Deluxe 10th Anniversary Edition)",
-      "duration_ms": 226627,
-      "isrc": "USSUB1304504"
-    },
-    {
-      "id": "597937191",
-      "name": "Sleeping In",
-      "artist": "The Postal Service",
-      "album": "Give Up (Deluxe 10th Anniversary Edition)",
-      "duration_ms": 261093,
-      "isrc": "USSUB1304503"
-    },
-    {
-      "id": "597937190",
-      "name": "Such Great Heights",
-      "artist": "The Postal Service",
-      "album": "Give Up (Deluxe 10th Anniversary Edition)",
-      "duration_ms": 266507,
-      "isrc": "USSUB1304502"
-    },
-    {
-      "id": "989430671",
-      "name": "Iambic Strays",
-      "artist": "Zach Hill",
-      "album": "Astrological Straits",
-      "duration_ms": 315347,
-      "isrc": "USA560792127"
-    },
-    {
-      "id": "1888707288",
-      "name": "THIS A MUST",
-      "artist": "Kanye West",
-      "album": "BULLY",
-      "duration_ms": 86710,
-      "isrc": "QZTL92630284"
-    },
-    {
-      "id": "1888707287",
-      "name": "KING",
-      "artist": "Kanye West",
-      "album": "BULLY",
-      "duration_ms": 126868,
-      "isrc": "QZQAY2608133"
-    },
-    {
-      "id": "410149794",
-      "name": "All Good Junkies Go to Heaven",
-      "artist": "Glassjaw",
-      "album": "Our Color Green (The Singles) - EP",
-      "duration_ms": 254436,
-      "isrc": "TCAAT1067692"
     }
   ],
   "stats": {
-    "total_scrobbled": 52,
-    "total_runs": 3
+    "total_scrobbled": 78,
+    "total_runs": 4
   }
 }
