@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run_iso": "2026-04-08T11:04:22.171639+00:00",
+  "last_run_iso": "2026-04-08T11:59:25.378094+00:00",
   "previous_recent": [
     {
       "id": "49250286",
@@ -405,6 +405,6 @@
   ],
   "stats": {
     "total_scrobbled": 91,
-    "total_runs": 7
+    "total_runs": 8
   }
 }
