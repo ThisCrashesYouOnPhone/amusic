@@ -1,0 +1,66 @@
+name: scrobble
+
+on:
+  schedule:
+    # Hourly at :07 past. GitHub cron is UTC and shared-runner timing
+    # is not exact — expect ±5–15 minutes of drift during peak hours.
+    # Hourly is safe for the 50-track Apple window unless you play
+    # *very* heavily; if so, change to "*/30 * * * *" for every 30 min.
+    - cron: "7 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run without submitting or updating ledger"
+        required: false
+        default: "false"
+      bootstrap:
+        description: "First run only — scrobble the initial 50-track window"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write  # required to commit ledger.json back
+
+concurrency:
+  group: scrobble
+  cancel-in-progress: false
+
+jobs:
+  poll-and-scrobble:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrobbler
+        env:
+          APPLE_DEV_TOKEN: ${{ secrets.APPLE_DEV_TOKEN }}
+          APPLE_MUSIC_USER_TOKEN: ${{ secrets.APPLE_MUSIC_USER_TOKEN }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_SHARED_SECRET: ${{ secrets.LASTFM_SHARED_SECRET }}
+          LASTFM_SESSION_KEY: ${{ secrets.LASTFM_SESSION_KEY }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          BOOTSTRAP_SCROBBLE: ${{ github.event.inputs.bootstrap }}
+        run: python -m apple_scrobbler.main
+
+      - name: Commit ledger
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "scrobbler-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ledger.json
+          if git diff --staged --quiet; then
+            echo "Ledger unchanged; nothing to commit."
+          else
+            git commit -m "ledger: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
