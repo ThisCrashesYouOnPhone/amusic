@@ -1,7 +1,111 @@
 {
   "version": 1,
-  "last_run_iso": "2026-04-08T05:50:12.960607+00:00",
+  "last_run_iso": "2026-04-08T07:44:16.243931+00:00",
   "previous_recent": [
+    {
+      "id": "49250286",
+      "name": "End the Washington Monument (Blinks) Goodnight",
+      "artist": "Q and not U",
+      "album": "No Kill No Beep Beep",
+      "duration_ms": 141840,
+      "isrc": "US35U0412302"
+    },
+    {
+      "id": "1847502997",
+      "name": "Emo Songs",
+      "artist": "Merchant Ships",
+      "album": "Bummer Times - Single",
+      "duration_ms": 299547,
+      "isrc": "QZZ8B2540442"
+    },
+    {
+      "id": "1834566055",
+      "name": "Sleep Patterns '25",
+      "artist": "Merchant Ships",
+      "album": "Sleep Patterns '25 - Single",
+      "duration_ms": 222040,
+      "isrc": "QZZ8A2524781"
+    },
+    {
+      "id": "1847503197",
+      "name": "My Journey to The Weed Den",
+      "artist": "Merchant Ships",
+      "album": "I Want To Forget Everything Bad That Ever Happened, Ever - EP",
+      "duration_ms": 205768,
+      "isrc": "QZZ8B2540493"
+    },
+    {
+      "id": "1834572055",
+      "name": "Something That Matters",
+      "artist": "Merchant Ships",
+      "album": "For Cameron - EP",
+      "duration_ms": 190497,
+      "isrc": "QZHN92236922"
+    },
+    {
+      "id": "1834572050",
+      "name": "Dying",
+      "artist": "Merchant Ships",
+      "album": "For Cameron - EP",
+      "duration_ms": 226673,
+      "isrc": "QZHN92236918"
+    },
+    {
+      "id": "1847503823",
+      "name": "Old Grey",
+      "artist": "Merchant Ships",
+      "album": "Old Grey, Etc. - EP",
+      "duration_ms": 218881,
+      "isrc": "QZZ8B2540555"
+    },
+    {
+      "id": "1847503202",
+      "name": "Long Term Relationships Were Only Cool When Divorce Wasn't",
+      "artist": "Merchant Ships",
+      "album": "I Want To Forget Everything Bad That Ever Happened, Ever - EP",
+      "duration_ms": 158381,
+      "isrc": "QZZ8B2540502"
+    },
+    {
+      "id": "1834572052",
+      "name": "Sleep Patterns",
+      "artist": "Merchant Ships",
+      "album": "For Cameron - EP",
+      "duration_ms": 197323,
+      "isrc": "QZHN92236920"
+    },
+    {
+      "id": "1476215222",
+      "name": "Twelve",
+      "artist": "I Would Set Myself On Fire For You",
+      "album": "Believes in Patterns",
+      "duration_ms": 333960,
+      "isrc": "USDHM1105222"
+    },
+    {
+      "id": "792609769",
+      "name": "Yr Electric Surge Is Sweet",
+      "artist": "Gospel",
+      "album": "The Moon Is a Dead World",
+      "duration_ms": 254840,
+      "isrc": "TCABS1381680"
+    },
+    {
+      "id": "792609767",
+      "name": "Congratulations... You've Hit Bottom!",
+      "artist": "Gospel",
+      "album": "The Moon Is a Dead World",
+      "duration_ms": 221187,
+      "isrc": "TCABO1357378"
+    },
+    {
+      "id": "1590201388",
+      "name": "Porcelain Slightly",
+      "artist": "Lil Ugly Mane",
+      "album": "Volcanic Bird Enemy and the Voiced Concern",
+      "duration_ms": 231320,
+      "isrc": "QZMEQ2179391"
+    },
     {
       "id": "1485049321",
       "name": "Devastator",
@@ -187,22 +291,6 @@
       "isrc": "TCJPP2116877"
     },
     {
-      "id": "49250286",
-      "name": "End the Washington Monument (Blinks) Goodnight",
-      "artist": "Q and not U",
-      "album": "No Kill No Beep Beep",
-      "duration_ms": 141840,
-      "isrc": "US35U0412302"
-    },
-    {
-      "id": "1590201388",
-      "name": "Porcelain Slightly",
-      "artist": "Lil Ugly Mane",
-      "album": "Volcanic Bird Enemy and the Voiced Concern",
-      "duration_ms": 231320,
-      "isrc": "QZMEQ2179391"
-    },
-    {
       "id": "1194903962",
       "name": "Sunday Morning",
       "artist": "All Dogs",
@@ -233,30 +321,6 @@
       "album": "Portraits of Past",
       "duration_ms": 100573,
       "isrc": "USCGJ2520093"
-    },
-    {
-      "id": "1834572055",
-      "name": "Something That Matters",
-      "artist": "Merchant Ships",
-      "album": "For Cameron - EP",
-      "duration_ms": 190497,
-      "isrc": "QZHN92236922"
-    },
-    {
-      "id": "1834572050",
-      "name": "Dying",
-      "artist": "Merchant Ships",
-      "album": "For Cameron - EP",
-      "duration_ms": 226673,
-      "isrc": "QZHN92236918"
-    },
-    {
-      "id": "1834572052",
-      "name": "Sleep Patterns",
-      "artist": "Merchant Ships",
-      "album": "For Cameron - EP",
-      "duration_ms": 197323,
-      "isrc": "QZHN92236920"
     },
     {
       "id": "1194901052",
@@ -337,74 +401,10 @@
       "album": "Underlight & Aftertime",
       "duration_ms": 262422,
       "isrc": "JPV502400038"
-    },
-    {
-      "id": "1587589826",
-      "name": "Boy's Theme",
-      "artist": "Brave Little Abacus",
-      "album": "Just Got Back from the Discomfort We're Alright",
-      "duration_ms": 167523,
-      "isrc": "QZMER2096298"
-    },
-    {
-      "id": "1587591804",
-      "name": "Through Hallways",
-      "artist": "Brave Little Abacus",
-      "album": "Masked Dancers: Concern in So Many Things You Forget Where You Are",
-      "duration_ms": 200440,
-      "isrc": "QZMER2097829"
-    },
-    {
-      "id": "1587589827",
-      "name": "A Highway Got Paved Over My Future, I Drive It Getting to School",
-      "artist": "Brave Little Abacus",
-      "album": "Just Got Back from the Discomfort We're Alright",
-      "duration_ms": 154719,
-      "isrc": "QZMER2096299"
-    },
-    {
-      "id": "1083521507",
-      "name": "Death Dream",
-      "artist": "Frightened Rabbit",
-      "album": "Painting of a Panic Attack (Deluxe)",
-      "duration_ms": 246787,
-      "isrc": "GBAHS1500556"
-    },
-    {
-      "id": "1764954670",
-      "name": "I Walk",
-      "artist": "Mount Eerie",
-      "album": "Night Palace",
-      "duration_ms": 306173,
-      "isrc": "QMEU32406746"
-    },
-    {
-      "id": "1587589829",
-      "name": "Can't Run Away",
-      "artist": "Brave Little Abacus",
-      "album": "Just Got Back from the Discomfort We're Alright",
-      "duration_ms": 389191,
-      "isrc": "QZMER2096301"
-    },
-    {
-      "id": "1587591803",
-      "name": "Waiting for Your Return Like Running Backwards",
-      "artist": "Brave Little Abacus",
-      "album": "Masked Dancers: Concern in So Many Things You Forget Where You Are",
-      "duration_ms": 61813,
-      "isrc": "QZMER2097828"
-    },
-    {
-      "id": "1587589830",
-      "name": "Untitled (Cont.)",
-      "artist": "Brave Little Abacus",
-      "album": "Just Got Back from the Discomfort We're Alright",
-      "duration_ms": 220681,
-      "isrc": "QZMER2096302"
     }
   ],
   "stats": {
-    "total_scrobbled": 78,
-    "total_runs": 4
+    "total_scrobbled": 91,
+    "total_runs": 5
   }
 }
